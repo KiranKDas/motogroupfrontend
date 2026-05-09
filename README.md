@@ -1,3 +1,5 @@
+Contains the Frontend for MotoGroup. Created for Assignment 1 of Full Stack Application Development
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
